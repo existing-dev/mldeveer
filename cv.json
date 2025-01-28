@@ -77,12 +77,6 @@
       ],
       "achievements": [
         "Successfully implemented a feature that enhanced user authentication, improving security measures."
-      ],
-      "skills": [
-        "Python",
-        "Django",
-        "SQL",
-        "Git"
       ]
     },
     {
@@ -96,10 +90,6 @@
       "summary": "Assisted in developing client websites and applications. Gained hands-on experience with front-end and back-end technologies.",
       "highlights": [
         "Completed several client projects successfully"
-      ],
-      "skills": [
-        "HTML",
-        "CSS"
       ]
     },
     {
@@ -115,8 +105,9 @@
 	  "Completed several client projects successfully"
 	],
 	"skills": [
-	  "HTML",
-	  "CSS"
+	  "Google Analytics",
+	  "SEO",
+	  "Content Writing"
 	]
       }
   ],
@@ -284,15 +275,11 @@
     {
       "name": "Technology",
       "keywords": [
-        "AI",
+        "Embedded Systems",
+	"Game Development",
+	"Backend Development",
         "Blockchain"
       ]
-    }
-  ],
-  "references": [
-    {
-      "name": "Jane Smith",
-      "reference": "Reference…"
     }
   ],
   "projects": [
