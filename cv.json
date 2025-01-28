@@ -1,73 +1,71 @@
 {
   "basics": {
-    "name": "John Doe",
-    "label": "Junior Full Stack Developer",
+    "name": "Maame Lankar De Veer",
+    "label": "Junior Software Developer",
     "image": "/me_avatar.jpg",
-    "email": "john.doe@example.com",
-    "phone": "+1 555-555-5555",
-    "url": "https://johndoe.dev",
-    "summary": "Junior Full Stack Developer with a passion for building web applications. Currently seeking opportunities to further develop my skills in a professional setting.",
+    "email": "maamelankar.deveer@gmail.com",
+    "phone": "+233 201583060",
+    "url": "https://mldeveer.dev",
+    "summary": "Software developer skilled in C, C#, and Rust, with a passion for innovation, continuous learning, and creating impactful solutions. Dedicated to delivering high-quality work and embracing new technologies. Always seeking opportunities to further develop my skills in a professional setting.",
     "theme": "default",
     "location": {
       "address": "",
-      "postalCode": "10001",
-      "city": "Auckland",
-      "countryCode": "NZ",
-      "region": "New Zealand"
+      "postalCode": "GA4367200",
+      "city": "Accra", 
+      "countryCode": "GH",
+      "region": "Ghana"
     },
     "profiles": [
       {
         "network": "LinkedIn",
-        "username": "john-doe",
-        "url": "https://linkedin.com/in/john-doe"
+        "username": "maamelankardeveer",
+        "url": "https://linkedin.com/in/maamelankardeveer"
       },
       {
-        "network": "X",
-        "username": "john-doe",
-        "url": "https://x.com/john-doe"
+        "network": "Twitter",
+        "username": "maame_deveer",
+        "url": "https://twitter.com/maame_deveer"
       },
       {
         "network": "GitHub",
-        "username": "johndoe",
-        "url": "https://github.com/johndoe"
+        "username": "existing-dev",
+        "url": "https://github.com/existing-dev"
       }
     ]
   },
   "work": [
     {
-      "name": "Tech Startup",
-      "position": "Junior Web Developer",
+      "name": "Zedulo",
+      "position": "Software Trainee",
       "location_type": "On site",
-      "location": "Auckland, New Zealand",
-      "url": "https://techstartup.com",
-      "startDate": "2024-01-01",
+      "location": "Haatso, Greater Accra - Ghana",
+      "url": "https://zedulo.com",
+      "startDate": "2024-11-01",
       "endDate": null,
-      "summary": "Developing and maintaining web applications using JavaScript, HTML, and CSS. Collaborating with the team to implement new features and fix bugs.",
-      "highlights": [
-        "Improved website performance by optimizing code"
-      ],
-      "responsibilities": [
-        "Collaborated with senior developers to design and implement web applications using modern JavaScript frameworks.",
-        "Assisted in debugging and optimizing front-end code to ensure smooth user experiences.",
-        "Participated in code reviews and contributed to improving coding standards within the team."
+      "summary": "Training period before being promoted to a full fledged junior software developer.",
+      "training": [
+        "Learnt C programming and solved exercises from the C Ansi Programming book by Kernigan and Ritchie.",
+        "Learnt how to use linux, basic commandline tools and writing bash scripts.",
+        "Learnt basic security principles and covered basic computer science and architecture principles."
       ],
       "achievements": [
-        "Developing and maintaining web applications using JavaScript, HTML, and CSS. Collaborating with the team to implement new features and fix bugs."
+        "Built a simple UDP Client-Server Computer Borrowing System as a mini-project to complete my training."
       ],
       "skills": [
-        "React",
-        "Tailwind",
-        "GitHub"
+        "C",
+	"Linux",
+        "Computer Architecture",
+        "Security"
       ]
     },
     {
-      "name": "Innovative Solutions",
-      "position": "Junior Software Developer",
-      "location_type": "Hybrid",
-      "location": "Wellington, New Zealand",
-      "url": "https://innovativesolutions.com",
-      "startDate": "2022-06-01",
-      "endDate": "2023-06-01",
+      "name": "National Communications Authority",
+      "position": "National Service Personnel - Cybersecurity Division",
+      "location_type": "On Site",
+      "location": "Accra, Greater Accra - Ghana",
+      "url": "https://nca.org.gh",
+      "startDate": "2022-11-14",
+      "endDate": "2023-10-01",
       "summary": "Assisting in the development and maintenance of software applications using Python and Django. Collaborating with cross-functional teams to ensure quality and timely delivery of software solutions.",
       "highlights": [
         "Contributed to a major project that streamlined internal workflows, improving efficiency by 30%"
@@ -88,10 +86,11 @@
       ]
     },
     {
-      "name": "Web Agency",
-      "position": "Intern Web Developer",
-      "location_type": "Remote",
-      "location": "Sydney, Australia",
+      "name": "Valley View University",
+      "position": "IT Technician Intern",
+      "location_type": "On Site",
+      "location": "Dodowa, Greater Accra - Ghana",
+      "url": "https://www.vvu.edu.gh/",
       "startDate": "2022-06-01",
       "endDate": "2022-12-01",
       "summary": "Assisted in developing client websites and applications. Gained hands-on experience with front-end and back-end technologies.",
@@ -102,68 +101,47 @@
         "HTML",
         "CSS"
       ]
-    }
-  ],
-  "volunteer": [
+    },
     {
-      "organization": "Local Coding Club",
-      "position": "Volunteer",
-      "url": "https://codingclub.com/",
-      "startDate": "2021-01-01",
-      "endDate": "2022-01-01",
-      "summary": "Helped organize coding workshops and mentored new members.",
-      "highlights": [
-        "Awarded 'Volunteer of the Month'"
-      ]
-    }
+	"name": "Techmarket Solutions",
+	"position": "Intern Web Developer",
+	"location_type": "On Site",
+	"location": "Accra, Greater Accra - Ghana",
+	"url": "https://www.techmarketgh.com/",
+	"startDate": "2022-06-01",
+	"endDate": "2022-12-01",
+	"summary": "Assisted in developing client websites and applications. Gained hands-on experience with front-end and back-end technologies.",
+	"highlights": [
+	  "Completed several client projects successfully"
+	],
+	"skills": [
+	  "HTML",
+	  "CSS"
+	]
+      }
   ],
   "education": [
     {
-      "institution": "State University",
-      "url": "https://stateuniversity.edu",
+      "institution": "Valley View University",
+      "url": "https://www.vvu.edu.gh/",
       "area": "Computer Science",
-      "studyType": "Bachelor",
-      "startDate": "2018-09-01",
-      "endDate": "2022-05-01",
-      "score": "3.8",
-      "courses": [
-        "CS101 - Introduction to Computer Science",
-        "CS102 - Data Structures"
-      ]
-    },
-    {
-      "institution": "Tech Institute",
-      "url": "https://techinstitute.edu",
-      "area": "Software Engineering",
-      "studyType": "Master",
-      "startDate": "2020-09-01",
-      "endDate": "2022-12-01",
-      "score": "3.9",
-      "courses": [
-        "SE201 - Advanced Software Development",
-        "SE202 - Software Architecture and Design"
-      ]
-    },
-    {
-      "institution": "City College",
-      "url": "https://citycollege.edu",
-      "area": "Information Technology",
-      "studyType": "Associate Degree",
-      "startDate": "2017-01-01",
-      "endDate": "2019-12-01",
-      "score": "3.7",
-      "courses": [
-        "IT101 - Networking Fundamentals",
-        "IT102 - Database Management Systems"
-      ]
+      "studyType": "Bachelor of Science",
+      "startDate": "2018-09",
+      "endDate": "2023-07"
     }
   ],
   "certificates": [
     {
-      "name": "Full Stack Web Development",
-      "date": "2023-05-01",
-      "issuer": "Online University",
-      "url": "https://onlineuniversity.com/certificates/fullstack"
+      "name": "LFEL1002: Getting Started with Rust",
+      "issued": "2024-02",
+      "issuer": "The Linux Foundation",
+      "url": "https://www.credly.com/badges/25f0d3c1-2b4a-4c9f-8d7b-56d8914b58ad/linked_in_profile"
+    },
+    {
+	"name": "Foundational C# with Microsoft",
+	"issued": "2024-01",
+	"issuer": "The Linux Foundation",
+	"url": "https://www.freecodecamp.org/certification/maame_deveer/foundational-c-sharp-with-microsoft"
     }
   ],
   "skills": [
