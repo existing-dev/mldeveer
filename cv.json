@@ -9,8 +9,6 @@
     "summary": "Software developer skilled in C, C#, and Rust, with a passion for innovation, continuous learning, and creating impactful solutions. Dedicated to delivering high-quality work and embracing new technologies. Always seeking opportunities to further develop my skills in a professional setting.",
     "theme": "default",
     "location": {
-      "address": "",
-      "postalCode": "GA4367200",
       "city": "Accra", 
       "countryCode": "GH",
       "region": "Ghana"
@@ -36,26 +34,30 @@
   "work": [
     {
       "name": "Zedulo",
-      "position": "Software Trainee",
+      "position": "Junior VLSI Engineer",
       "location_type": "On site",
       "location": "Haatso, Greater Accra - Ghana",
       "url": "https://zedulo.com",
       "startDate": "2024-11-01",
-      "endDate": "2025-02-01",
-      "summary": "Training period before being promoted to a full fledged junior software developer.",
-      "training": [
-        "Learnt C programming and solved exercises from the C Ansi Programming book by Kernigan and Ritchie.",
-        "Learnt how to use linux, basic commandline tools and writing bash scripts.",
-        "Learnt basic security principles and covered basic computer science and architecture principles."
+      "endDate": "Current",
+      "summary": "Junior VLSI Engineer focused on RTL design, verification, and FPGA prototyping. Experienced in implementing and testing digital logic circuits with Verilog HDL, open-source IPs, and industry-standard simulation tools. Building strong expertise in hardware-software interaction, computer architecture, and system-level design.",
+      "responsibilities": [
+        "Designing and simulating digital logic circuits in VerilogHDL.",
+        "Design Verification and Testing with Verilator, icarus verilog and FPGA boards",
+        "Reviewing hardware specifications and implementing modules for verification and testing.",
+        "Documenting design processes and maintaining version-controlled codebases."
       ],
       "achievements": [
-        "Built a simple UDP Client-Server Computer Borrowing System as a mini-project to complete my training."
+        "Implemented a simple I2C Slave Module and got it running in simulation and on an FPGA board communicating with the computer through MCP221A.",
+        "Worked with the OpenTitan opensource pusle width modulation (PWM) IP and got it running in simulation and on in house FPGA boards."
       ],
       "skills": [
-        "C",
-	"Linux",
+        "VerilogHDL",
+        "Digital Logic Design",
+        "VLSI Design & Verification",
         "Computer Architecture",
-        "Security"
+        "Linux",
+        "C"
       ]
     },
     {
@@ -121,103 +123,21 @@
       "endDate": "2023-07"
     }
   ],
-  "certificates": [
-    {
-      "name": "LFEL1002: Getting Started with Rust",
-      "issued": "2024-02",
-      "issuer": "The Linux Foundation",
-      "url": "https://www.credly.com/badges/25f0d3c1-2b4a-4c9f-8d7b-56d8914b58ad/linked_in_profile"
-    },
-    {
-	"name": "Foundational C# with Microsoft",
-	"issued": "2024-01",
-	"issuer": "The Linux Foundation",
-	"url": "https://www.freecodecamp.org/certification/maame_deveer/foundational-c-sharp-with-microsoft"
-    }
-  ],
   "skills": [
     {
-      "name": "Figma",
-      "level": "Expert",
+      "name": "VerilogHDL",
+      "level": "Beginner",
       "keywords": [
-        "Design",
-        "UI"
+        "Design Logic",
+        "VLSI"
       ]
     },
     {
-      "name": "Gitlab",
+      "name": "C",
       "level": "Intermediate",
       "keywords": [
-        "Version Control",
-        "Collaboration",
-        "Source Code"
-      ]
-    },
-    {
-      "name": "HTML",
-      "level": "Intermediate",
-      "keywords": [
-        "Web Development",
-        "Frontend"
-      ]
-    },
-    {
-      "name": "CSS",
-      "level": "Intermediate",
-      "keywords": [
-        "Web Development",
-        "Frontend",
-        "Responsive Design"
-      ]
-    },
-    {
-      "name": "JavaScript",
-      "level": "Intermediate",
-      "keywords": [
-        "Web Development",
-        "Frontend",
-        "Backend",
-        "Fullstack"
-      ]
-    },
-    {
-      "name": "Tailwind",
-      "level": "Intermediate",
-      "keywords": [
-        "Web Development",
-        "Frontend",
-        "CSS Framework",
-        "Responsive Design"
-      ]
-    },
-    {
-      "name": "TypeScript",
-      "level": "Intermediate",
-      "keywords": [
-        "Web Development",
-        "Frontend",
-        "Backend",
-        "JavaScript Superset"
-      ]
-    },
-    {
-      "name": "Node",
-      "level": "Intermediate",
-      "keywords": [
-        "Web Development",
-        "Backend",
-        "JavaScript",
-        "Server"
-      ]
-    },
-    {
-      "name": "MySQL",
-      "level": "Intermediate",
-      "keywords": [
-        "Databases",
-        "SQL",
-        "Data Storage",
-        "Backend"
+        "Low-Level Programming",
+        "Systems Programming"
       ]
     },
     {
@@ -238,92 +158,31 @@
         "Source Code",
         "Git"
       ]
-    },
-    {
-      "name": "Next.js",
-      "level": "Beginner",
-      "keywords": [
-        "Web Development",
-        "Frontend",
-        "React Framework",
-        "SSR",
-        "Static Generation"
-      ]
-    },
-    {
-      "name": "React",
-      "level": "Intermediate",
-      "keywords": [
-        "Web Development",
-        "Frontend",
-        "JavaScript Library",
-        "UI"
-      ]
     }
   ],
   "languages": [
     {
       "language": "English",
       "fluency": "Native speaker"
-    },
-    {
-      "language": "Spanish",
-      "fluency": "Intermediate"
     }
   ],
   "interests": [
     {
       "name": "Technology",
       "keywords": [
+        "VLSI",
+        "Systems Engineering",
         "Embedded Systems",
-	"Game Development",
-	"Backend Development",
+	      "Game Development",
+        "Zero Knowledge Proofs",
         "Blockchain"
       ]
     }
   ],
   "projects": [
     {
-      "name": "Personal Portfolio",
-      "isActive": false,
-      "description": "A personal portfolio website to showcase my projects and skills.",
-      "highlights": [
-        "Built with React and Tailwind CSS",
-        "Includes a blog and contact form"
-      ],
-      "url": "https://johndoe.dev",
-      "github": "https://github.com"
-    },
-    {
-      "name": "Weather App",
-      "isActive": true,
-      "description": "A web application that provides weather information for any location.",
-      "highlights": [
-        "Built with JavaScript and OpenWeatherMap API",
-        "Responsive design"
-      ],
-      "url": "https://weatherapp.com"
-    },
-    {
-      "name": "Task Manager",
-      "isActive": true,
-      "description": "A simple task management app to keep track of daily tasks.",
-      "highlights": [
-        "Built with Node.js and MongoDB",
-        "User authentication and CRUD operations"
-      ],
-      "url": "https://taskmanager.com",
-      "github": "https://github.com"
-    },
-    {
-      "name": "E-commerce Site",
-      "isActive": false,
-      "description": "An online store built with Next.js and Stripe for payment processing.",
-      "highlights": [
-        "Product management and shopping cart functionality",
-        "Secure payment integration"
-      ],
-      "url": "https://ecommerce.com"
+      "name": "building...",
+      "isActive": true
     }
   ]
 }
