@@ -4,7 +4,7 @@ export interface CV {
   volunteer: Array<Volunteer>;
   education: Array<Education>;
   awards: Array<Awards>;
-  certificates: Array<Certificates>;
+  /* certificates: Array<Certificates>; */
   publications: Array<Publications>;
   skills: Array<Skills>;
   languages: Array<Languages>;
